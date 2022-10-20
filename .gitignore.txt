@@ -1,0 +1,2 @@
+/foldername/
+test.jpg
